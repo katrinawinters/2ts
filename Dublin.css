@@ -1,0 +1,22 @@
+h2 {
+    text-align: center;
+}
+
+* {
+    background-color:aliceblue;
+    font-family: pacifico;
+
+}
+
+img {
+    width: 250px;
+    height: 200px;
+    border-radius: 25%;
+    margin-left: 140px;
+    border-style: hidden, 10px;
+    border-color:darkslategrey;
+    
+
+}
+
+

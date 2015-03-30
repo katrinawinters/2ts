@@ -1,0 +1,26 @@
+/*This is where to put your css :)*/
+
+#love {
+    border-radius: 100%;
+    background-color: antiquewhite;
+        width: 600px;
+        height: 600px;
+    margin-right: 2000px;
+    margin-left: 400px;
+    margin-top: 70px;
+    margin-bottom: 400px;
+}
+div h1 {
+    font-family: lobster;
+    color: cadetblue;
+    text-decoration-color: cyan;
+    text-decoration-style: dashed
+    text-align: center;
+    margin-top: 235px;
+    margin-left: 90px;
+    font-size: 40px;
+    float: left
+}
+
+
+
