@@ -22,5 +22,10 @@ div h1 {
     float: left
 }
 
-
+body, html {
+    height: 100%;
+    body: 100%;
+}
+ 
+    
 
