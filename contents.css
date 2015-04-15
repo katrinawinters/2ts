@@ -1,8 +1,10 @@
 
 body{
     background-image: url("http://individual.utoronto.ca/sck/vimages/fourthheartcurve.gif");
-    background-position: center;
-    background-repeat: space;
+    background-size: 18em;
+    background-position:top-right; 
+    background-repeat: repeat-x;
+    
     padding: 0;
   margin: 0;
   
